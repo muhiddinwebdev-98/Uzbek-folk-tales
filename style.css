@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&family=Gamja+Flower&display=swap');
+
+body {
+    background-color: gold;
+}
+
+.sarlavha {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+}
+
+
+
+.ertak {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+
+
+}
+
+.container {
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+
+}
+
+.nomlar {
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+}
+
+.flex {
+    text-align: center;
+}
+
+.qizil-shapka {
+    text-align: center;
+
+}
+
+.qizil {
+    width: 600px;
+
+}
+
+.chapter1 {
+    background-color: #EA9CE5;
+}
+
+.hikoya {
+    text-align: center;
+}
+
+.ertak {
+    font-size: 25px;
+}
+
+.container3 {
+
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+
+}
+
+.asosiy {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+}
+
+.boglanish {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Gamja Flower', sans-serif;
+}
+
+.chapter-2 {
+    background-color: #EA9CE5;
+}
+
+.chapter-3 {
+    background-color: #EA9CE5;
+}
+
+.chapter-4 {
+
+    background-color: #EA9CE5;
+}
+
+.bogirsoq1 {
+    background-color: #4BE6F8;
+}
+
+.zmvaqm-1 {
+    background-color: #88FF6D;
+}
+
+.zmvaqm-2 {
+    background-color:  #4BE6F8;
+
+}
